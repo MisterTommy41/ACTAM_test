@@ -1,5 +1,5 @@
 ## Heading 1
-Test repo for my ACTAM uni course
+Test repo for my ACTAM course
 
 ## Table
 
